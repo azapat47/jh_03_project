@@ -1,3 +1,6 @@
+*.zip
+UCI HAR Dataset/
+
 # History files
 .Rhistory
 .Rapp.history
